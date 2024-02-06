@@ -151,16 +151,17 @@ const TimeLine = () => {
                   </Card>
                 </Accordion>
               </div>
-              <div className="d-flex justify-content-between flex-nowrap text-center">
+
+              <div className="d-flex justify-content-between flex-nowrap tex-center">
                 <UrlButton href="http://chatnest.onrender.com/" target="_blank">
-                  SEE LIVE
+                  VISIT APP
                 </UrlButton>
-                <UrlButton
+                {/* <UrlButton
                   href="https://github.com/im-saumya-gupta/chatnest"
                   target="_blank"
                 >
-                  SOURCE CODE
-                </UrlButton>
+                  CODE
+                </UrlButton> */}
                 {/* <UrlButton
                   href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-materialui-fun-activity-6716765686963826688-GIpZ"
                   target="_blank"
@@ -282,14 +283,14 @@ const TimeLine = () => {
                   href="https://google-meet-clone-n34f.onrender.com/"
                   target="_blank"
                 >
-                  SEE LIVE
+                  VISIT APP
                 </UrlButton>
-                <UrlButton
+                {/* <UrlButton
                   href="https://github.com/im-saumya-gupta/google_meet_clone"
                   target="_blank"
                 >
-                  SOURCE CODE
-                </UrlButton>
+                  CODE
+                </UrlButton> */}
               </div>
             </div>
           </ImageEvent>
@@ -381,14 +382,14 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton href="https://textease.netlify.app/" target="_blank">
-                  SEE LIVE
+                  VISIT APP
                 </UrlButton>
-                <UrlButton
+                {/* <UrlButton
                   href="https://github.com/im-saumya-gupta/textease"
                   target="_blank"
                 >
-                  SOURCE CODE
-                </UrlButton>
+                  CODE
+                </UrlButton> */}
                 {/* <UrlButton
                   href="https://www.youtube.com/watch?v=K3h95l2YxmY&feature=youtu.be"
                   target="_blank"
@@ -463,14 +464,14 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton href="https://clockguru.netlify.app" target="_blank">
-                  SEE LIVE
+                  VISIT APP
                 </UrlButton>
-                <UrlButton
+                {/* <UrlButton
                   href="https://github.com/im-saumya-gupta/Analog-Clock-Javascript"
                   target="_blank"
                 >
-                  SOURCE CODE
-                </UrlButton>
+                  CODE
+                </UrlButton> */}
                 {/* <UrlButton
                   href="https://www.youtube.com/watch?v=ZZYSpi_blL0"
                   target="_blank"
@@ -571,14 +572,14 @@ const TimeLine = () => {
                   href="https://shoopingclone.netlify.app/"
                   target="_blank"
                 >
-                  SEE LIVE
+                  VISIT APP
                 </UrlButton>
-                <UrlButton
+                {/* <UrlButton
                   href="https://github.com/im-saumya-gupta/FlipKart-Clone"
                   target="_blank"
                 >
-                  SOURCE CODE
-                </UrlButton>
+                CODE
+                </UrlButton> */}
               </div>
             </div>
           </ImageEvent>
