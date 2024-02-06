@@ -14,17 +14,12 @@ import Card from "react-bootstrap/Card";
 import L_REACT from "../../assets/img/skills/react.svg";
 import L_NODE_JS from "../../assets/img/skills/nodejs.svg";
 import L_EXPRESS from "../../assets/img/skills/express.svg";
-import L_POSTGRESQL from "../../assets/img/skills/postgresql.svg";
+import L_JavaScript from "../../assets/img/skills/javascript.svg";
 import L_MONGODB from "../../assets/img/skills/mongodb.svg";
 import Image from "react-bootstrap/Image";
-import L_REDUX from "../../assets/img/skills/redux.svg";
 import L_HTML5 from "../../assets/img/skills/html-5.svg";
 import L_CSS3 from "../../assets/img/skills/css3.svg";
-import L_BOOTSTRAP4 from "../../assets/img/skills/bootstrap-4.svg";
-import L_DJANGO from "../../assets/img/skills/django.svg";
-import L_DIGITAL_OCEAN from "../../assets/img/skills/digital-ocean.svg";
-import L_GIT from "../../assets/img/skills/github-api.svg";
-import L_MATERIALUI from "../../assets/img/skills/material-ui-1.svg";
+import L_BOOTSTRAP5 from "../../assets/img/skills/bootstrap-5.png";
 
 import "./projects-timeline.styles.css";
 
@@ -104,6 +99,17 @@ const TimeLine = () => {
                                 className="image-style1 m-1"
                               ></Image>{" "}
                               React
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_JavaScript}
+                                alt="JavaScript"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              JavaScript
                             </span>
                           </li>
                           <li>
@@ -198,6 +204,17 @@ const TimeLine = () => {
                         <hr />
                         <strong>Tech used:</strong>
                         <ul>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_JavaScript}
+                                alt="JavaScript"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              JavaScript
+                            </span>
+                          </li>
                           <li>
                             <span className="p-2">
                               <Image
@@ -315,6 +332,17 @@ const TimeLine = () => {
                           <li>
                             <span className="p-2">
                               <Image
+                                src={L_JavaScript}
+                                alt="JavaScript"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              JavaScript
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
                                 src={L_HTML5}
                                 alt="HTML 5"
                                 rounded
@@ -375,7 +403,7 @@ const TimeLine = () => {
           <ImageEvent
             date="09/11/2023"
             className="text-center"
-            text="Smart Brain Face Detect app"
+            text="Clock Guru"
             src={L_Clock_Guru}
             alt="Clock Guru"
           >
@@ -405,6 +433,17 @@ const TimeLine = () => {
                         <hr />
                         <strong>Tech used:</strong>
                         <ul>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_JavaScript}
+                                alt="JavaScript"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              JavaScript
+                            </span>
+                          </li>
                           <li>
                             <span className="p-2">
                               <Image
@@ -480,6 +519,17 @@ const TimeLine = () => {
                           <li>
                             <span className="p-2">
                               <Image
+                                src={L_JavaScript}
+                                alt="JavaScript"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              JavaScript
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
                                 src={L_HTML5}
                                 alt="HTML 5"
                                 rounded
@@ -502,12 +552,12 @@ const TimeLine = () => {
                           <li>
                             <span className="p-2">
                               <Image
-                                src={L_BOOTSTRAP4}
-                                alt="Bootstrap 4"
+                                src={L_BOOTSTRAP5}
+                                alt="Bootstrap 5"
                                 rounded
                                 className="image-style m-1"
                               ></Image>{" "}
-                              Bootstrap 4
+                              Bootstrap 5
                             </span>
                           </li>
                         </ul>

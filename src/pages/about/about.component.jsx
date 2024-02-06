@@ -41,13 +41,6 @@ const About = () => {
                 In 2023, I successfully completed my post graduation MCA with
                 honours in 'Computer Application' and In 2021, I have
                 successfully completed my graduation in BCA.
-                {/* <br />
-                Working with the clients, my goal is always driven towards
-                providing amazing experience with the best level of quality and
-                service to them.
-                <br />
-                Along with that, I also help people as a COACH on their journey
-                of becoming a professional programmer. */}
                 <br />I love learning about new technologies, what problems are
                 they solving and How can I use them to build better and scalable
                 products.

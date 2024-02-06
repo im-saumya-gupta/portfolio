@@ -2,7 +2,6 @@ import React from "react";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Card from "react-bootstrap/Card";
 import L_Hummingbird from "../../assets/img/experience/hbwsl-logo.png";
-import L_DELOITTE from "../../assets/img/experience/deloitte.svg";
 import Tilt from "react-tilt";
 import "./experience.styles.css";
 
