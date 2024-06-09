@@ -3,9 +3,9 @@ import L_CSS3 from "../../assets/img/skills/css3.svg";
 import L_BOOTSTRAP from "../../assets/img/skills/bootstrap-5.png";
 import L_REACT from "../../assets/img/skills/react.svg";
 import L_REDUX from "../../assets/img/skills/redux.svg";
-import L_NODE_JS from "../../assets/img/skills/nodejs.svg";
-import L_EXPRESS from "../../assets/img/skills/express.svg";
-import L_MONGODB from "../../assets/img/skills/mongodb.svg";
+import L_NODE_JS from "../../assets/img/skills/node.png";
+import L_EXPRESS from "../../assets/img/skills/express.png";
+import L_MONGODB from "../../assets/img/skills/mongodb.png";
 import L_MySQL from "../../assets/img/skills/mysql.png";
 import L_CPP from "../../assets/img/skills/cpp.png";
 import L_GIT from "../../assets/img/skills/git-icon.svg";
@@ -14,6 +14,9 @@ import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_Tailwind from "../../assets/img/skills/tailwind.png";
 import L_Render from "../../assets/img/skills/render.png";
+import L_Vuejs from "../../assets/img/skills/vuejs.png"
+import L_Vercel from "../../assets/img/skills/vercel.png"
+import L_PHP from "../../assets/img/skills/php.png"
 
 export const skills = {
   frontend: [
@@ -58,6 +61,12 @@ export const skills = {
       imgAltText: "Redux",
       imgSrc: L_REDUX,
       skillName: "Redux",
+    },
+    {
+      link: "https://vuejs.org/",
+      imgAltText: "Vue.js",
+      imgSrc: L_Vuejs,
+      skillName: "Vue Js",
     },
     // {
     //   link: "https://reacttraining.com/react-router/",
@@ -106,12 +115,12 @@ export const skills = {
       imgSrc: L_EXPRESS,
       skillName: "Express",
     },
-    // {
-    //   link: "https://nestjs.com/",
-    //   imgAltText: "NestJS",
-    //   imgSrc: L_NESTJS,
-    //   skillName: "NestJS",
-    // },
+    {
+      link: "https://www.php.net/",
+      imgAltText: "PHP",
+      imgSrc: L_PHP,
+      skillName: "PHP",
+    },
   ],
   hostingPlatforms: [
     {
@@ -125,6 +134,12 @@ export const skills = {
       imgAltText: "Render",
       imgSrc: L_Render,
       skillName: "Render.com",
+    },
+    {
+      link: "https://vercel.com/",
+      imgAltText: "Vercel",
+      imgSrc: L_Vercel,
+      skillName: "Vercel",
     },
     {
       link: "https://pages.github.com/",

@@ -39,8 +39,9 @@ const About = () => {
                 utilizing technology to improve user experience.
                 <br />
                 In 2023, I successfully completed my post graduation MCA with
-                honours in 'Computer Application' and In 2021, I have
-                successfully completed my graduation in BCA.
+                honours in 'Computer Application'.
+                <br />
+                In 2021, I have successfully completed my graduation in BCA.
                 <br />I love learning about new technologies, what problems are
                 they solving and How can I use them to build better and scalable
                 products.
