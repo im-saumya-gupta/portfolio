@@ -117,7 +117,7 @@ const Experience = () => {
                   <strong>Technology:</strong> JavaScript, HTML, CSS, PHP,
                   MySQL, Magento, Alpine.js, Tailwind CSS
                   <br />
-                  <strong>Duration:</strong> Sep 2023 - Dec 2023
+                  {/* <strong>Duration:</strong> Sep 2023 - Dec 2023 */}
                   <br />
                   <strong> Description </strong>
                   <ul className="text-left">
